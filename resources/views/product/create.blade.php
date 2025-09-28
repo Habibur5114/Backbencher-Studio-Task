@@ -27,7 +27,7 @@
         </form>
     </div>
 
-
+{{--  admorefunction  --}}
     <script>
         const addMoreBtn = document.getElementById('addMoreBtn');
         const tableBody = document.getElementById('tableBody');
