@@ -1,9 +1,8 @@
-<!doctype html>
-<html lang="en">
+
 
 @include('include.header')
 
-<body>
+
     <div class="container">
         <h4 class="my-4">Create Products Insert Multiple Data</h4>
         <div class="d-flex justify-content-between align-items-center mb-3">
