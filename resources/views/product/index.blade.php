@@ -1,9 +1,6 @@
-<!doctype html>
-<html lang="en">
 
 @include('include.header')
 
-<body>
   <div class="container mt-5">
     <div class="d-flex justify-content-between align-items-center mb-3">
       <h5>Total Products</h5>
