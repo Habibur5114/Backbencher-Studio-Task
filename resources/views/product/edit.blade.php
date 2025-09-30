@@ -1,9 +1,6 @@
-<!doctype html>
-<html lang="en">
 
 @include('include.header')
 
-<body>
     <div class="container">
         <h4 class="my-4">Edit Product Insert Multiple Data</h4>
 
